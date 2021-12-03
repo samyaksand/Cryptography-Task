@@ -14,3 +14,7 @@
 - Caesar Cipher (The Shift Cipher)
 - Playfair Cipher
 - RSA Cipher
+
+## Code links
+### [Python Notebook](https://github.com/samyaksand/Cryptography-Task/blob/main/samyaksand_crypto.ipynb)
+### [Google Colab link](https://colab.research.google.com/drive/1m0NPSRpFlXotMiVHF_KlJkugVDrKn2dZ?usp=sharing)
